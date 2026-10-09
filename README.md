@@ -6,14 +6,14 @@ Ready-to-use VBA modules for Excel developers. Each .bas file can be imported st
 
 | File | Covers |
 |---|---|
-| HTML_XML_Referaance.bas | Parsing HTML and XML documents from VBA |
-| InternetControlReferance.bas | Internet Explorer and web page control |
-| MSWordReferance.bas | Creating and editing Word documents from Excel |
-| Outlook_Referance.bas | Sending and reading Outlook email |
+| HTML_XML_Reference.bas | Parsing HTML and XML documents from VBA |
+| InternetControlReference.bas | Internet Explorer and web page control |
+| MSWordReference.bas | Creating and editing Word documents from Excel |
+| Outlook_Reference.bas | Sending and reading Outlook email |
 | ScriptingRuntime.bas | FileSystemObject and Dictionary helpers |
-| SeleniumBasicsReferance.bas | Browser automation with SeleniumBasic |
-| VBAExtensibilityReferance.bas | Working with VBA projects and modules in code |
-| WindowsControlReferance.bas | Windows API and control helpers |
+| SeleniumBasicReference.bas | Browser automation with SeleniumBasic |
+| VBAExtensibilityReference.bas | Working with VBA projects and modules in code |
+| WindowsControlReference.bas | Windows API and control helpers |
 
 ## How to use
 
